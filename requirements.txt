@@ -1,0 +1,6 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+stem==1.8.2
+lxml==4.9.3
+pillow==10.1.0
+nltk==3.8.1
